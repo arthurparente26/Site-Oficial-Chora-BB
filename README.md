@@ -10,7 +10,7 @@ Desenvolver uma landing page para o site com informações que foram passadas.
 
 ## Status do Projeto
 
-Desenvolvimento.
+Concluido.
 
 ## Acesso ao projeto
 
