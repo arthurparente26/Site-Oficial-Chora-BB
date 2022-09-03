@@ -47,3 +47,11 @@
 .singers-image {
     width: 100%;
 }
+
+.socials .button {
+    list-style: none;
+    letter-spacing: 1.8px;
+    cursor: pointer;
+    align-self:center;
+    font-size: 1.3rem;
+}
