@@ -6,13 +6,15 @@ Desenvolvedor: Arthur Parente.
 
 ## Descrição do projeto
 
-Desenvolver uma landing page para o site com informações que foram passadas.
+Desenvolver um site com as preferencias que foram passadas pelo cliente.
 
 ## Status do Projeto
 
 Concluido.
 
 ## Acesso ao projeto
+
+** https://chorabboficial.netlify.app/
 
 **Basta baixa-lo pelo github pelo link: https://github.com/Arthur-Parente-Dias/Site Oficial ChoraBB.
 
