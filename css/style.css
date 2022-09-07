@@ -165,12 +165,6 @@ a {
     justify-items: center;
 }
 
-.projects-image {
-    display: inline-block;
-    width: 400px;
-    height: 360px;
-    border-radius: 5px;
-}
 
 /* Contacts */
 #social {
