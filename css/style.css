@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 * {
     box-sizing: border-box;
@@ -116,6 +116,7 @@ a {
 }
 
 .feature {
+    text-align: center;
     font-size: 1.2rem;
     display: flex;
     flex-direction: column;
@@ -129,6 +130,7 @@ a {
     font-size: 1.8rem;
     font-weight: bold;
 }
+
 
 /* Singers */
 #singers {
