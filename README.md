@@ -6,7 +6,7 @@ Desenvolvedor: Arthur Parente.
 
 ## Descrição do projeto
 
-Desenvolver um site com as preferencias que foram passadas pelo cliente.
+Desenvolver uma landing page para um cliente que tem como objetivo ter uma site oficial da marca ChoraBB com endereçamento para as redes scoiais do perfil e informações sobre o trabalho realizado.
 
 ## Status do Projeto
 
