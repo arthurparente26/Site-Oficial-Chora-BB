@@ -1,7 +1,5 @@
 # Site-Oficial-Chora-BB
 
-<h1 align="center"> Site Oficial pro canal ChoraBB </h1>
-
 Desenvolvedor: Arthur Parente.
 
 ## Descrição do projeto
